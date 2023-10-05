@@ -1,0 +1,12 @@
+{
+  "name": "101308759_comp3123_test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Allanis Sumaya",
+  "license": "ISC"
+}
